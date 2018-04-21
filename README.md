@@ -1,4 +1,4 @@
-# concept-negotiation## Prototype Concept Negotiation Using Conceptual Spaces
+## Prototype Concept Negotiation Using Conceptual Spaces
 
 **Under Construction**
 
